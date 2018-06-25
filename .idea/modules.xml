@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test1/multi-thread-test1.iml" filepath="$PROJECT_DIR$/multi-thread-test1/multi-thread-test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test10/multi-thread-test10.iml" filepath="$PROJECT_DIR$/multi-thread-test10/multi-thread-test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test11/multi-thread-test11.iml" filepath="$PROJECT_DIR$/multi-thread-test11/multi-thread-test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test12/multi-thread-test12.iml" filepath="$PROJECT_DIR$/multi-thread-test12/multi-thread-test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test2/multi-thread-test2.iml" filepath="$PROJECT_DIR$/multi-thread-test2/multi-thread-test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test3/multi-thread-test3.iml" filepath="$PROJECT_DIR$/multi-thread-test3/multi-thread-test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test4/multi-thread-test4.iml" filepath="$PROJECT_DIR$/multi-thread-test4/multi-thread-test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test5/multi-thread-test5.iml" filepath="$PROJECT_DIR$/multi-thread-test5/multi-thread-test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test6/multi-thread-test6.iml" filepath="$PROJECT_DIR$/multi-thread-test6/multi-thread-test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test7/multi-thread-test7.iml" filepath="$PROJECT_DIR$/multi-thread-test7/multi-thread-test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test8/multi-thread-test8.iml" filepath="$PROJECT_DIR$/multi-thread-test8/multi-thread-test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-test9/multi-thread-test9.iml" filepath="$PROJECT_DIR$/multi-thread-test9/multi-thread-test9.iml" />
+    </modules>
+  </component>
+</project>
