@@ -12,8 +12,10 @@ public class Test1 {
 
 	public static void main(String[] args) {
 
+		System.out.println("我的机器可用Processor数量:" + Runtime.getRuntime().availableProcessors());
+
 		// workerCount 控制有多少个线程
-		Master master = new Master(new Worker(), 4000);
+		Master master = new Master(new Worker(), 8);
 
 		Random r = new Random();
 		for (int i = 0; i < 10000; i++) { //循环变量控制有多少任务
